@@ -1,2 +1,8 @@
 TODO.md
 node_modules/
+Thumbs.db
+.DS_Store
+Desktop.ini
+.idea/
+*.psd
+dist/
